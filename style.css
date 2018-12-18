@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box
+}
+
+#content1{
+color:#BD93F9;
+}
+.token.selector{
+    color:#BD93F9;
+}
+.token.property{
+    color:#BD93F9;
+}
+.token.function{
+    color:#BD93F9;
+}
+.token.comment{
+    color:#BD93F9;
+}
+
+#cvContent{
+    color:black;
+}
